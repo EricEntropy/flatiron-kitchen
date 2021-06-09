@@ -1,5 +1,5 @@
 require 'spec_helper'
-
+system('clear')
 describe "creating ingredients" do
   context "on the new ingredient page" do
     before do
